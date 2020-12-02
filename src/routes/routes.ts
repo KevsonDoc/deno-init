@@ -7,4 +7,4 @@ router.get('/', (context) => {
   context.response.body = "Teste API"
 });
 
-export default router;
+export default router
